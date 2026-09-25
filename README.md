@@ -18,16 +18,20 @@ An evidence-first framework for researching a Web3 project before committing you
 
 ## Repository Contents
 
-- [`docs/7-p-framework.md`](docs/7-p-framework.md) — Core methodology.
-- [`docs/smart-contract-security.md`](docs/smart-contract-security.md) — Contract, permissions, upgradeability and audit checks.
-- [`docs/tokenomics.md`](docs/tokenomics.md) — Supply, allocation, unlocks, utility and holder concentration.
-- [`docs/onchain-research.md`](docs/onchain-research.md) — On-chain evidence and verification workflow.
-- [`docs/team-and-partnerships.md`](docs/team-and-partnerships.md) — Team, community, developer activity and partnership verification.
-- [`checklists/due-diligence-checklist.md`](checklists/due-diligence-checklist.md) — Full practical checklist.
-- [`checklists/10-minute-test.md`](checklists/10-minute-test.md) — Rapid first-pass test.
-- [`templates/due-diligence-report.md`](templates/due-diligence-report.md) — Copy/paste report template.
-- [`toolkit/research-tools.md`](toolkit/research-tools.md) — Research categories and example tools.
-- [`source/`](source/) — Original HausaHub Take Episode 6 preparation document used as the source for this framework.
+All links below point to files that currently exist in this repository:
+
+- [`7-p-framework.md`](7-p-framework.md) — Core 7-P methodology.
+- [`smart-contract-security.md`](smart-contract-security.md) — Contract, permissions, upgradeability and audit checks.
+- [`tokenomics.md`](tokenomics.md) — Supply, allocation, unlocks, utility and holder concentration.
+- [`onchain-research.md`](onchain-research.md) — On-chain evidence and verification workflow.
+- [`team-and-partnerships.md`](team-and-partnerships.md) — Team, community, developer activity and partnership verification.
+- [`due-diligence-checklist.md`](due-diligence-checklist.md) — Full practical checklist.
+- [`10-minute-test.md`](10-minute-test.md) — Rapid first-pass test.
+- [`due-diligence-report.md`](due-diligence-report.md) — Copy/paste report template.
+- [`research-tools.md`](research-tools.md) — Research categories and example tools.
+- [`SOURCE.md`](SOURCE.md) — Source material used to develop this framework.
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — Contribution guidelines.
+- [`SECURITY.md`](SECURITY.md) — Security policy and reporting guidance.
 
 ## Guiding Principles
 
@@ -42,5 +46,4 @@ An evidence-first framework for researching a Web3 project before committing you
 
 ## Important Note
 
-This repository is a due-diligence methodology, not a guarantee that a project is safe or legitimate. The source material explicitly emphasizes that no project can be guaranteed safe and that users should evaluate whether the risk is acceptable for them.
-
+This repository is a due-diligence methodology, not a guarantee that a project is safe or legitimate. No project can be guaranteed safe. Use the framework to organize evidence, identify risks and document unresolved questions before making decisions.
