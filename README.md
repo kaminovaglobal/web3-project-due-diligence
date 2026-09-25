@@ -44,6 +44,3 @@ An evidence-first framework for researching a Web3 project before committing you
 
 This repository is a due-diligence methodology, not a guarantee that a project is safe or legitimate. The source material explicitly emphasizes that no project can be guaranteed safe and that users should evaluate whether the risk is acceptable for them.
 
-## Source
-
-Based on **HausaHub Take — Episode 6: Web3 Project Due Diligence — Yadda Ake Binciken Web3 Project Kafin Ka Shiga / How to Research a Web3 Project Before You Join It**, Speaker: Ibrahimskam.
